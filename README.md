@@ -49,5 +49,3 @@ El código fuente está disponible en [GitHub](https://github.com/rodrigo47363/p
 
 Este proyecto está bajo la [Licencia MIT](LICENSE).
 ```
-
-Ahora el README incluye un enlace directo al repositorio de GitHub. ¡Espero que te sea útil!
